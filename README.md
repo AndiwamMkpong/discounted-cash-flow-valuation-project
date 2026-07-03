@@ -21,3 +21,14 @@ This project presents a discounted cash flow valuation model built in Excel. The
 ## Files
 - `DCF_Model.xlsx`: Full Excel valuation model
 - `DCF_Presentation.pptx`: Summary presentation of valuation assumptions, outputs, and recommendation
+
+## Project Preview
+
+### DCF Summary
+![DCF Summary](images/dcf_summary.png)
+
+### WACC Calculation
+![WACC Calculation](images/wacc_calculation.png)
+
+### Presentation Slide
+![Presentation Slide](images/presentation_slide.png)
